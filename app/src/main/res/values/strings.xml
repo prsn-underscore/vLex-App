@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">vLex</string>
+    <string name="hint_addTag">your custom tag here</string>
+    <string name="hintAddTag">It\'s not here? Create it</string>
+</resources>

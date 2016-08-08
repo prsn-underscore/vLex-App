@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_7c38da748843509277a5bc5cb29205e55b1eb5d5/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_d43abbbf0e5269350163d2ce757e1e1b79b30afd/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="65620ba5e576dcec2c86efa440b00d042a27383b">
+        <dex dex="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.melnykov-floatingactionbutton-1.2.0_dacfdd672d0ade2750cf9699829191575bcc6ce0/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_7a3c387b50c5b9da42e088aabc74c87f9960780f/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_38ee64f00db3480aa067239234bcae21ae6f1627/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachith/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.3.2/559b70ac8a0d5cad611da4223137a920147201ba/jackson-core-2.3.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="559b70ac8a0d5cad611da4223137a920147201ba">
+        <dex dex="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.3.2_add54e981184a046357d08eb16da4e2b4608c57f/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_c637b8b3dc7a176659ecf9b872610c772c550d23/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachith/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_e71fe7b9b48a634d03a340100306ac23a96fed57/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachith/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.3.2/c75edc740a6d8cb1cef6fa82fa594e0bce561916/jackson-databind-2.3.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c75edc740a6d8cb1cef6fa82fa594e0bce561916">
+        <dex dex="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.3.2_86ef332baa41421e53b8625f7c156051a7aef0a2/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_851d89f3bc9eaf2e4a689ac5c373a876e1612dda/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8f4070dd41309a820112935b59a30b1587aa33ae">
+        <dex dex="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4dd8528fc2eb5a65e471008e59e9eb0fb1955bf4/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fa15be9b63bd761588e79a23c3b73b4d43ab59ee">
+        <dex dex="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_09f7b2de8efaafb95c4be1d4a1bcde8fe840513c/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/exploded-aar/com.github.fiskurgit/ChipCloud/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5521f141f5e8940ded0aa0d45cde27964ca8bf5a">
+        <dex dex="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.fiskurgit-ChipCloud-2.1.0_7c667275e87c42f70add1077debba9fd6996ff67/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachith/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_ca9020cf8c351d9c29894e55c67dd2afda4171e1/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/exploded-aar/com.github.johnkil.android-appmsg/appmsg/1.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="398ec51345409df9e36a1de1a81f2b3ad5234bfb">
+        <dex dex="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.johnkil.android-appmsg-appmsg-1.2.0_efa8957b1e1c44be7f9717a0b0ee947bf36c114a/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachith/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_b652356fc2e91a972c1dac785fb3dca835dee490/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachith/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-core/2.0.0.M1/26b2d3262a0c5f8de663deeb6481d132d871fffa/spring-android-core-2.0.0.M1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="26b2d3262a0c5f8de663deeb6481d132d871fffa">
+        <dex dex="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/transforms/dex/debug/folders/1000/10/spring-android-core-2.0.0.M1_2358ebb6df690f333cfa4c71740ddaaf3d6864e3/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachith/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.3.0/f5e853a20b60758922453d56f9ae1e64af5cb3da/jackson-annotations-2.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f5e853a20b60758922453d56f9ae1e64af5cb3da">
+        <dex dex="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.3.0_585ac0d702c9b373bcabbdde3e0f317c4a8ca807/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachith/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-rest-template/2.0.0.M1/6abb1e22445a4e4571c74632804e4179b43d82b5/spring-android-rest-template-2.0.0.M1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6abb1e22445a4e4571c74632804e4179b43d82b5">
+        <dex dex="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/transforms/dex/debug/folders/1000/10/spring-android-rest-template-2.0.0.M1_f5e58db43831e6644f44856f59e2829c812f3c8d/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/home/sachith/Documents/Sachith/Freelance/Green Doctor/SourceCode/BugFix/VLex/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_b66c0c29adbee25395ff6402073bf17cdc4ca446/classes.dex" />
+    </item>
+
+</items>
